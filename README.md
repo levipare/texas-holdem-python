@@ -4,6 +4,8 @@
 
 This is a texas hold'em poker game written in python. You play against bots and are able to control betting actions.
 
+![Example of game being played](game.png)
+
 ### Instructions:
 
 Run main.py (preferably in a standalone terminal) to play. The terminal must have a width of at least 140 characters to ensure proper displaying of the game.
